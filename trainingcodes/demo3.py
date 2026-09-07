@@ -1,0 +1,6 @@
+for i in range(1,11):
+    print(i*2,"",i*3,"",i*4,"")
+    print()
+    for i in range (1,11):
+        print(i*5,"",i*6,"",i*7,"")
+        
